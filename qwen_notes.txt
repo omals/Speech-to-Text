@@ -1,0 +1,75 @@
+============================================================
+   AMBIENT NOTES  |  Qwen3-ASR 1.7B  |  CPU Mode
+============================================================
+
+[1/3] Loading Qwen3-ASR 1.7B (first run downloads weights)...
+      This takes a few minutes on CPU. Please wait.
+
+[2/3] Notes will be saved to:
+      C:\Users\osivankutty\OneDrive - ChiSquare Labs Pvt. Ltd\Documents\aether\task\notes.txt
+
+[3/3] Starting ambient recording loop.
+      Speak naturally. Press Ctrl+C to stop.
+
+------------------------------------------------------------
+
+[CHUNK #1]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s...... Done.
+[STT]  Transcribing with Qwen3-ASR... (Processing on CPU)
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+[TEXT] 哎呀。
+[TIME] Transcribed in 59.7s
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #2]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s...... Done.
+[STT]  Transcribing with Qwen3-ASR... (Processing on CPU)
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+[TEXT] 还能收到最新的苏州新闻，好吗？
+[TIME] Transcribed in 36.3s
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #3]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s...... Done.
+[STT]  Transcribing with Qwen3-ASR... (Processing on CPU)
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+[TEXT] अरे फोटो पेंशन में ये तो पसंद कॉर्प्स ने नहीं बनाया हमारे दिल्ली को भेजता है आर एस जी
+[TIME] Transcribed in 82.0s
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #4]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s...... Done.
+[STT]  Transcribing with Qwen3-ASR... (Processing on CPU)
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+[TEXT] The patient reports experiencing headaches for past three days.
+[TIME] Transcribed in 28.9s
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #5]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s...... Done.
+[STT]  Transcribing with Qwen3-ASR... (Processing on CPU)
+Setting `pad_token_id` to `eos_token_id`:151645 for open-end generation.
+[TEXT] The patient denies any history of diabetes or hypertension.
+[TIME] Transcribed in 30.5s
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #6]
+[MIC]  Using device: Microphone Array (IntelÂ® Smart
+[REC]  Recording 10s.
+
+[STOP] Recording stopped by user.
+       Session duration : 0:04:53
+       Chunks recorded  : 6
+       Notes saved to   : C:\Users\osivankutty\OneDrive - ChiSquare Labs Pvt. Ltd\Documents\aether\task\notes.txt
+
+Goodbye!

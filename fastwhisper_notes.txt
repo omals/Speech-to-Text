@@ -1,0 +1,121 @@
+============================================================
+   AMBIENT NOTES  |  Faster-Whisper  |  PyAudio Mode
+============================================================
+
+[1/3] Loading Faster-Whisper 'base' model...
+      First run downloads model weights. Please wait
+
+vocabulary.txt: 460kB [00:00, 1.68MB/s]
+tokenizer.json: 2.20MB [00:00, 3.48MB/s]
+model.bin: 100%|████████████████████████████████████████████████████████████████████| 145M/145M [02:04<00:00, 1.16MB/s]
+      Model loaded successfully!
+
+[2/3] Notes will be saved to:
+      C:\Users\osivankutty\OneDrive - ChiSquare Labs Pvt. Ltd\Documents\aether\task\notes.txt
+
+[3/3] Starting ambient recording loop.
+      Speak naturally. Press Ctrl+C to stop.
+
+------------------------------------------------------------
+
+[CHUNK #1]
+[REC]  Recording 10s..... Done.
+[TEXT] (silence detected, RMS=32 — nothing saved)
+------------------------------------------------------------
+
+[CHUNK #2]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 4.7s
+[LANG] EN (60.2% confidence)
+[TEXT] The patient has recovered about having some...
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #3]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 1.7s
+[TEXT] (no speech detected after VAD filter)
+------------------------------------------------------------
+
+[CHUNK #4]
+[REC]  Recording 10s..... Done.
+[TEXT] (silence detected, RMS=45 — nothing saved)
+------------------------------------------------------------
+
+[CHUNK #5]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 1.5s
+[TEXT] (no speech detected after VAD filter)
+------------------------------------------------------------
+
+[CHUNK #6]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.4s
+[TEXT] (no speech detected after VAD filter)
+------------------------------------------------------------
+
+[CHUNK #7]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.1s
+[LANG] EN (89.0% confidence)
+[TEXT] The patient reports experiencing headache for past 3 days.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #8]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.5s
+[LANG] EN (80.2% confidence)
+[TEXT] Sorry, I will get to the other one. Using device made for fun, you see the coin dance against turns.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #9]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.2s
+[LANG] EN (81.9% confidence)
+[TEXT] patient denies an e-stereo-cabetic sir or hypertension, t-tock.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #10]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.4s
+[LANG] EN (85.5% confidence)
+[TEXT] The patient denies any useful tactics or hypertension and hence denying the history.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #11]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 2.1s
+[LANG] EN (81.8% confidence)
+[TEXT] It's the patient denies any history of diabetes over high
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #12]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 6.1s
+[LANG] EN (77.5% confidence)
+[TEXT] And good, and you have a very good chance of changing that thing, thank you, to point.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #13]
+[REC]  Recording 10s..... Done.
+[STT]  Transcribing... Done in 3.8s
+[LANG] NL (41.6% confidence)
+[TEXT] Breikend.
+[SAVE] Appended to notes.txt
+------------------------------------------------------------
+
+[CHUNK #14]
+[REC]  Recording 10s..
+
+[STOP] Recording stopped by user.
+       Session duration : 0:02:51
+       Chunks recorded  : 14
+       Notes saved to   : C:\Users\osivankutty\OneDrive - ChiSquare Labs Pvt. Ltd\Documents\aether\task\notes.txt
+
+Goodbye!

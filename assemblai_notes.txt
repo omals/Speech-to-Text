@@ -1,0 +1,238 @@
+{
+  "audio_duration": 9,
+  "confidence": 0.90743786,
+  "language": "en",
+  "model": "AssemblyAI Universal",
+  "status": "success",
+  "text": "The PAV file I gave you doesn't use the Pi Audio at all and uses the Sound Device. Make sure you have the latest version of the file. Check what's at the top of your current file.",
+  "timestamp": "2026-06-15 16:29:02",
+  "timing": {
+    "realtime_factor": 1.1,
+    "transcription_time_ms": 8168,
+    "transcription_time_sec": 8.17
+  },
+  "words": [
+    {
+      "confidence": 0.88561124,
+      "end_ms": 459,
+      "start_ms": 100,
+      "text": "The"
+    },
+    {
+      "confidence": 0.17958246,
+      "end_ms": 1000,
+      "start_ms": 459,
+      "text": "PAV"
+    },
+    {
+      "confidence": 0.51121634,
+      "end_ms": 1180,
+      "start_ms": 1000,
+      "text": "file"
+    },
+    {
+      "confidence": 0.9951331,
+      "end_ms": 1220,
+      "start_ms": 1180,
+      "text": "I"
+    },
+    {
+      "confidence": 0.99516773,
+      "end_ms": 1480,
+      "start_ms": 1220,
+      "text": "gave"
+    },
+    {
+      "confidence": 0.99301684,
+      "end_ms": 1720,
+      "start_ms": 1480,
+      "text": "you"
+    },
+    {
+      "confidence": 0.9958515,
+      "end_ms": 2000,
+      "start_ms": 1720,
+      "text": "doesn't"
+    },
+    {
+      "confidence": 0.9790688,
+      "end_ms": 2280,
+      "start_ms": 2000,
+      "text": "use"
+    },
+    {
+      "confidence": 0.9787228,
+      "end_ms": 2560,
+      "start_ms": 2280,
+      "text": "the"
+    },
+    {
+      "confidence": 0.8361721,
+      "end_ms": 2820,
+      "start_ms": 2560,
+      "text": "Pi"
+    },
+    {
+      "confidence": 0.49546495,
+      "end_ms": 3140,
+      "start_ms": 2820,
+      "text": "Audio"
+    },
+    {
+      "confidence": 0.98355734,
+      "end_ms": 3320,
+      "start_ms": 3140,
+      "text": "at"
+    },
+    {
+      "confidence": 0.9997137,
+      "end_ms": 3620,
+      "start_ms": 3320,
+      "text": "all"
+    },
+    {
+      "confidence": 0.96541715,
+      "end_ms": 3800,
+      "start_ms": 3620,
+      "text": "and"
+    },
+    {
+      "confidence": 0.96320564,
+      "end_ms": 4279,
+      "start_ms": 3800,
+      "text": "uses"
+    },
+    {
+      "confidence": 0.96198785,
+      "end_ms": 4479,
+      "start_ms": 4279,
+      "text": "the"
+    },
+    {
+      "confidence": 0.6741889,
+      "end_ms": 4699,
+      "start_ms": 4479,
+      "text": "Sound"
+    },
+    {
+      "confidence": 0.7929998,
+      "end_ms": 4979,
+      "start_ms": 4699,
+      "text": "Device."
+    },
+    {
+      "confidence": 0.99767464,
+      "end_ms": 5140,
+      "start_ms": 4979,
+      "text": "Make"
+    },
+    {
+      "confidence": 0.9998517,
+      "end_ms": 5399,
+      "start_ms": 5140,
+      "text": "sure"
+    },
+    {
+      "confidence": 0.99790525,
+      "end_ms": 5560,
+      "start_ms": 5399,
+      "text": "you"
+    },
+    {
+      "confidence": 0.99906594,
+      "end_ms": 5760,
+      "start_ms": 5560,
+      "text": "have"
+    },
+    {
+      "confidence": 0.9984041,
+      "end_ms": 5859,
+      "start_ms": 5760,
+      "text": "the"
+    },
+    {
+      "confidence": 0.99979025,
+      "end_ms": 6119,
+      "start_ms": 5859,
+      "text": "latest"
+    },
+    {
+      "confidence": 0.99963534,
+      "end_ms": 6479,
+      "start_ms": 6119,
+      "text": "version"
+    },
+    {
+      "confidence": 0.9988869,
+      "end_ms": 6479,
+      "start_ms": 6479,
+      "text": "of"
+    },
+    {
+      "confidence": 0.98366976,
+      "end_ms": 6699,
+      "start_ms": 6479,
+      "text": "the"
+    },
+    {
+      "confidence": 0.72093916,
+      "end_ms": 6960,
+      "start_ms": 6699,
+      "text": "file."
+    },
+    {
+      "confidence": 0.9969797,
+      "end_ms": 7140,
+      "start_ms": 6960,
+      "text": "Check"
+    },
+    {
+      "confidence": 0.90304494,
+      "end_ms": 7479,
+      "start_ms": 7140,
+      "text": "what's"
+    },
+    {
+      "confidence": 0.9910377,
+      "end_ms": 7560,
+      "start_ms": 7479,
+      "text": "at"
+    },
+    {
+      "confidence": 0.96860117,
+      "end_ms": 7680,
+      "start_ms": 7560,
+      "text": "the"
+    },
+    {
+      "confidence": 0.9997969,
+      "end_ms": 7779,
+      "start_ms": 7680,
+      "text": "top"
+    },
+    {
+      "confidence": 0.9986135,
+      "end_ms": 7979,
+      "start_ms": 7779,
+      "text": "of"
+    },
+    {
+      "confidence": 0.9959615,
+      "end_ms": 8060,
+      "start_ms": 7979,
+      "text": "your"
+    },
+    {
+      "confidence": 0.9944776,
+      "end_ms": 8400,
+      "start_ms": 8060,
+      "text": "current"
+    },
+    {
+      "confidence": 0.8447866,
+      "end_ms": 8850,
+      "start_ms": 8400,
+      "text": "file."
+    }
+  ]
+}

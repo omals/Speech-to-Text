@@ -1,0 +1,14 @@
+python -m venv canary_env
+call canary_env\Scripts\activate.bat or canary_env\Scripts\activate
+python -m pip install --upgrade pip
+
+pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+pip install soundfile numpy huggingface_hub flask
+
+pip install assemblyai
+pip install faster-whisper
+pip install openai-whisper
+pip install qwen-asr
+
+canary_env\Scripts\activate
+python app.py  #run files accordingly
