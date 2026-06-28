@@ -29,10 +29,6 @@ This directory contains standalone and comparative Speech-to-Text implementation
   * [qwen_app.jpeg](file:///c:/Users/osivankutty/OneDrive%20-%20ChiSquare%20Labs%20Pvt.%20Ltd/Documents/aether/STT/qwen_app.jpeg) - UI screenshot.
   * [qwen_notes.txt](file:///c:/Users/osivankutty/OneDrive%20-%20ChiSquare%20Labs%20Pvt.%20Ltd/Documents/aether/STT/qwen_notes.txt) - Console logs.
 
-* **Documentation & Setup**:
-  * [STT_PoC_Comparison_Report.docx](file:///c:/Users/osivankutty/OneDrive%20-%20ChiSquare%20Labs%20Pvt.%20Ltd/Documents/aether/STT/STT_PoC_Comparison_Report.docx) - PoC comparison report.
-  * [steps.txt](file:///c:/Users/osivankutty/OneDrive%20-%20ChiSquare%20Labs%20Pvt.%20Ltd/Documents/aether/STT/steps.txt) - Environment setup commands.
-
 ---
 
 ## Quick Setup
